@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1s8nAVlNIcLF--IFzoixyM1uJB65zptUF
 """
 
-!pip install -q streamlit
-!npm install localtunnel
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
